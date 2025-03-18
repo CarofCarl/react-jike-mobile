@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# react-jike-mobile
+A mobile-first React application inspired by the Jike social platform. This project demonstrates modern React development practices with a focus on responsive design and user experience.
+>>>>>>> d1eb7ddb7910210c4077fff52e83d3a1d0fe5c22
