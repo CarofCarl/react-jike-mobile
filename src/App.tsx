@@ -1,5 +1,11 @@
-const App = () => {
-  return <div>this is app</div>;
-};
+import { Button } from 'antd-mobile'
 
-export default App;
+const App = () => {
+  return (
+    <div>
+      <Button color="success">click me</Button>this is app
+    </div>
+  )
+}
+
+export default App
